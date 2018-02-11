@@ -1,4 +1,4 @@
-Convertor Base_10Strike to StaffCop
+Convertor Base 10Strike to StaffCop
 ===========================================
 
 Конвертор базы 10-Страйк: Инвентаризация Компьютеров (inventoryconfig*.zip и inventorybase*.zip) в базу XML формата для StaffCop
