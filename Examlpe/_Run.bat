@@ -1,0 +1,1 @@
+Convert_Base_10Strike_to_StaffCop.exe .\Base_10Strike\ .\Base_StaffCop\
